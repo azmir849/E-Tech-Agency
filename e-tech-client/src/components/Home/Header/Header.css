@@ -1,12 +1,13 @@
 .header {
     background: white;
     height: 100vh;
-    background-image: url('../../../image/bg.png');
+    /* background: url('../../../image/bg.mp4'); */
     background-repeat: no-repeat;
     background-position: right;
     width: 100%;
     overflow: hidden;
 }
+
 .titleArea {
     padding: 1rem;
 }
@@ -33,7 +34,7 @@
     margin: 0.5rem 0 1rem
 }
 .branBtn {
-    background: #7355F7;
+    background: #eb8908;
     padding: 18px 35px;
     display: inline-block;
     border-radius: 50px;
@@ -47,10 +48,10 @@
 }
 .branBtn:hover {
     color: #fff;
-    background-color: #4B24F5;
+    background-color: #eb8908;
 }
 .headerHighlight {
-    color: #7355F7;
+    color: #eb8908;
 }
 
 @media (max-width: 981px) {

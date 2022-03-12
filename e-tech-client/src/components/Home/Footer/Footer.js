@@ -41,7 +41,7 @@ const Footer = () => {
                 <FooterCol key="3" menuItems={ourServices} title="OUR SERVICES"/>
                 <FooterCol key="4" menuItems={otherLinks} title="OTHER LINKS"/>
             </Row>
-            <p className="copyRight">Copyright &copy; 2021 <span className="fHighlight">Trusted Tech</span>. All rights reserved.</p>
+            <p className="copyRight">Copyright &copy; 2021 <span className="fHighlight">E-Tech Agency </span>. All rights reserved.</p>
         </section>
     );
 };

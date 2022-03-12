@@ -1,5 +1,5 @@
 .footer {
-    background: #7355F7;
+    background: #eb8908;
     background-image: url('../../../image/footerbg.png');
     width: 100%;
     font-family: 'Poppins', sans-serif;
@@ -13,7 +13,7 @@
     padding: 0.5rem;
 }
 .linkIcon {
-    color: #6F53EF;
+    color: #eb8908;
     font-size: 2rem;
     cursor: pointer;
     background: white;
@@ -98,16 +98,16 @@
     line-height: 2.5rem;
     background: #fff;
     margin-right: 5px;
-    color:#7355F7;
+    color:#eb8908;
     transition: 0.4s;
 }
 .fAboutUs li a:hover{
-    background: #4B24F5;
+    background: #eb8908;
     color: #fff;
 }
 
 .copyRight {
-    background-color: #2608AB;
+    background-color: #eb8908;
     color: rgba(255, 255, 255, 0.692);
     font-weight: 400;
     font-size: 0.911rem;
@@ -160,7 +160,7 @@
     display: block;
     width: 115px;
     height: 3px;
-    background: #2608AB;
+    background: #eb8908;
 }
   
 .animate-border:after {
