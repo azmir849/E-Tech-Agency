@@ -9,12 +9,12 @@ const Header = () => {
         <section className="header">
             <NavBar/>
             <div className="row w-100">
-                <div className="row col-md-11 mx-auto ">
+                <div className="row col-md-10 mx-auto ">
                     <div className="col-md-7 titleArea">
                         <Fade duration={2000} left>
-                            <p className="miniTitle">WE CREATE IDEAS</p>
-                            <h1 className="headerTitle">HOW WE CAN HELP YOUR <span className="headerHighlight">BUSINESS</span></h1>
-                            <p className="headerContent">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.</p>
+                            <p className="miniTitle">Your trusted Partner</p>
+                            <h1 className="headerTitle">Grow Your <span className="headerHighlight">BUSINESS</span></h1>
+                            <p className="headerContent">Years of experience with talented team members that help you stairs up.</p>
                             <a href="#services"><button className="branBtn">Get Started</button></a>
                         </Fade>
                     </div>

@@ -32,7 +32,7 @@
 }
 .mainNav .nav-link:hover:after {
     width: 100%;
-    background: #4C25F5;
+    background: #eb8908;
 }
 
 .navBrn {
@@ -41,7 +41,7 @@
 }
 .brnIcon,
 .navHighlight {
-    color: #7456F7;;
+    color: #eb8908;;
 }
 .brnIcon {
     font-weight: 800;
@@ -54,13 +54,13 @@
     border-radius: 50px;
     font-weight: 500;
     color:#fff;
-    background: #7355F7;
+    background: #eb8908;
     padding: 0.5rem 1.5rem;
     margin: 0.5rem 1rem;
     transition: 0.4s;
 }
 .loginBtn:hover { 
-    background : #4B24F5
+    background : #c77306;
 }
 
 @media (max-width: 981px) {
