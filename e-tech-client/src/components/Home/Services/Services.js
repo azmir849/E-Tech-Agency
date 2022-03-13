@@ -20,7 +20,7 @@ const Services = () => {
             {services.length === 0 && <div className="spinner text-center"><Spinner/></div>}
             <div className="row mt-4 container mx-auto justify-content-center">
                 {
-                    services?.map(service => <Service key={service._key} service={service}/>)
+                    services?.map(service => <Service key={service._id} service={service}/>)
                 }
             </div>
         </section>
