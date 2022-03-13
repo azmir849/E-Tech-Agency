@@ -7,9 +7,9 @@
 }
   
 .uploadBtn {
-    color: #6544f8;
-    border: 1px solid #5c38ff;
-    background-color: rgba(147, 123, 255, 0.227);
+    color: #eb8908;
+    border: 1px solid #eb8908;
+    background-color: rgba(218, 213, 238, 0.227);
     padding: 8px 20px;
     border-radius: 0.5rem;
     font-size: 1rem;
@@ -20,9 +20,9 @@
 }
 
 .uploadBtn:hover {
-    color: #6544f8;
-    border: 1px solid #5c38ff;
-    background-color: rgba(147, 123, 255, 0.384);
+    color: #eb8908;
+    border: 1px solid #eb8908;
+    background-color: rgba(169, 164, 187, 0.227);
 }
 
 .form-label {

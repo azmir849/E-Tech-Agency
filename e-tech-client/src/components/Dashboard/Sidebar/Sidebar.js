@@ -11,8 +11,8 @@ const Sidebar = ({setTitle}) => {
 
     return (
         <div>
-            <div className="sideBrand">
-                <div className="sideBrnIcon"><FontAwesomeIcon icon={faBuffer}/></div>
+            <div className="sideBrand mt-4 ">
+                {/* <div className="sideBrnIcon"><FontAwesomeIcon icon={faBuffer}/></div> */}
                 <h2>Trusted <span className="navHighlight">Tech</span></h2>
             </div>
             <nav id="sideNavbar">

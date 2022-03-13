@@ -41,7 +41,7 @@
   display: block;
   width: 100%;
   text-transform: uppercase;
-  background: #7254F6;
+  background: #eb8908;
   border: none;
   font-size: 1rem;
   transition: 0.3s;
@@ -52,7 +52,7 @@
 }
 
 .backBtnBox .backBtn:hover{
-  background: #4C25F5;
+  background: #b66803;
 }
 
 .backBtnBox a:hover {

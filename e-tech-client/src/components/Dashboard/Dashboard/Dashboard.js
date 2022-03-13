@@ -13,7 +13,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 const Dashboard= () => {
     const { user, admin, setAdmin } = useContext(UserContext);
     const [sideToggle, setSideToggle] = useState(false)
-    const [title, setTitle] = useState('Trusted Tech')
+    const [title, setTitle] = useState('E-Tech Agency')
 
     useEffect(() => {
         axios.get(`http://localhost:8000/admin?email=${user.email}`)

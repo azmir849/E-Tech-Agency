@@ -8,8 +8,8 @@
 
 .form-select:focus,
 .form-control:focus  {
-    border-color: #8468ff!important;
-    box-shadow: 0 0 0 0.2rem rgb(4 0 255 / 26%)!important;
+    border-color: #eb8908!important;
+    box-shadow: 0 0 0 0.2rem rgba(230, 214, 171, 0.247)!important;
 }
 
 .priceInput {
