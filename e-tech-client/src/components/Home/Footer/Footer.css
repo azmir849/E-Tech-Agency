@@ -1,12 +1,12 @@
 .footer {
-    background: #eb8908;
+    background: #100b27;
     background-image: url('../../../image/footerbg.png');
     width: 100%;
     font-family: 'Poppins', sans-serif;
     margin: 0!important;
 }
 .footerBox .footerLogo {
-    background-color: #fff;
+    background-color:#eb8908;;
     border-radius: 3px;
     box-shadow: 0 0px 60px 0 rgb(0 0 0 / 20%);
     height: 70px;
@@ -28,7 +28,7 @@
 
 .footerLink h5,
 .fAboutUs h5 {
-    color: rgba(240, 255, 255, 0.925);
+    color: #eb8908;
     padding-top: 0.5rem;
     font-weight: 400;
     display: inline-block;
@@ -45,15 +45,15 @@
     width: 60px;
     border-radius: 70px;
     height: 4px;
-    background: rgba(240, 255, 255, 0.925);;
+    background: rgb(249, 255, 255);;
 }
 .footerLink > .aboutUsDes {
-    color: rgba(255, 255, 255, 0.6);
+    color: rgb(255, 255, 255);
     font-weight: 400;
 }
 .footerLink li {
     list-style: none;
-    color: rgba(255, 255, 255, 0.6);
+    color: rgba(255, 255, 255, 0.959);
     font-size: 1rem;
     transition: 0.4s;
     margin: 1.1rem 0;
@@ -61,22 +61,23 @@
 }
 .footerLink li:hover {
     margin-left: 0.7rem;
-    color: #fff;
+    color: #eb8908;
 }
 
 .footerLink a {
-    color: rgba(255, 255, 255, 0.6);
+    color: rgba(255, 255, 255, 0.952);
     text-decoration: none;
 }
 .footerLink a:hover {
     text-decoration: none;
+    color:#eb8908;
 }
 .footArrowIcon {
     font-size: 0.9rem;
 }
 
 .fAboutUs p {
-    color: rgba(255, 255, 255, 0.699);
+    color: rgba(255, 255, 255, 0.938);
     font-weight: 400;
     margin: 1rem 0;
 
@@ -108,7 +109,7 @@
 
 .copyRight {
     background-color: #eb8908;
-    color: rgba(255, 255, 255, 0.692);
+    color: rgba(255, 255, 255, 0.938);
     font-weight: 400;
     font-size: 0.911rem;
     text-align: center;
@@ -126,23 +127,23 @@
 
 .footerInfo {
     width: 100%;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.6);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.904);
     padding: 3rem 0 2rem;
 }
 
 .fContactInfo p {
-    color: rgba(255, 255, 255, 0.6);
+    color: rgba(255, 255, 255, 0.897);
     font-size: 1rem;
     margin-bottom: 0.2rem;
     margin-left: 0.7rem;
 }
 .fContactIcon {
     font-size: 2.5rem;
-    color: rgba(255, 255, 255, 0.822);
+    color: rgba(255, 255, 255, 0.918);
 }
 
 .fContactInfo1  p {
-    color: #fff!important;
+    color: #eb8908!important;
     font-weight: 500;
     font-size: 1.5rem!important;
 }

@@ -9,12 +9,12 @@
     display: inline-block;
     height: 2.4rem;
     width: 2.4rem;
-    background: #7154F3;
+    background: #ffaa3c;
     border-radius: 50%;
     transition: 0.3s;
     border: none;
-    box-shadow: 0 2px 15px rgb(88 69 206 / 70%);
+    box-shadow: 0 2px 15px rgba(206, 158, 69, 0.7);
 }
 .scrollBtn:hover {
-    background-color: #4B24F5;
+    background-color: #d87d05;
 }

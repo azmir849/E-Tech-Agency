@@ -1,7 +1,7 @@
 .services {
     padding: 7rem 0 6rem;
     width: 100%;
-    background-color: #FAF8FF;
+    background-color: #faf2e8;
     font-family: 'Poppins', sans-serif;
 }
 .service {
@@ -50,11 +50,11 @@
     transition: transform 300ms ease-out;
     transform: scaleY(0);
     border-radius: 0.5rem;
-    background-color: #E2DEF9;
+    background-color: #ffb95d;
 }
 .serviceImg {
     height: 90px;
-    background-color: rgb(213 196 255);
+    background-color: rgb(250, 209, 146);
     padding: 0.2rem 0.5rem;
     border-radius: 0.5rem;
     transition: 0.4s;
@@ -86,17 +86,17 @@
     color: #fff;
     border: none;
     padding: 0.5rem 1rem;
-    background: #7355F7;
+    background: #eb8908;
     margin-top: 0.3rem;
 }
 
 .servicePrice {
-    color: #755BFF;
+    color: #eb8908;
     font-size: 1.6rem;
     font-weight: 700;
     margin-bottom: 0;
 }
 
 .bookingBtn:hover {
-    background: #4B24F5;
+    background: #b46804;
 }

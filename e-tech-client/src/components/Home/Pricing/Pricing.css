@@ -25,7 +25,7 @@
 }
 
 .priceLink1 > .nav-link {
-    border: 7px solid #ffccd3;
+    border: 7px solid #ffeb94;
 }
 .priceLink2 > .nav-link {
     border: 7px solid #a2ffd2;
@@ -40,12 +40,12 @@
     border: 7px solid #dfdaff;
 }
 .priceLink6 > .nav-link {
-    border: 7px solid #ffeb94;
+    border: 7px solid #ffccd3;
 }
 
 .priceLink1 > a:hover, 
 .priceLink1 > .nav-link.active {
-    background: #FF4F66;
+    background: #ffd30f;
 }
 .priceLink2 > a:hover, 
 .priceLink2 > .nav-link.active {
@@ -66,7 +66,7 @@
 }
 .priceLink6 > a:hover, 
 .priceLink6 > .nav-link.active {
-    background: #ffd30f;
+    background: #FF4F66;
 }
 
 
@@ -121,11 +121,11 @@
     font-weight: 700;
 }
 .pricingCard1 {
-    background: #FFD2C4;
+    background: #fff1d5;
 }
 .ph1, 
 .pricingCard1 > li > .checkIcon {
-    color: #FF4F66;
+    color: #f5c800;
 }
 
 .pricingCard2 {
@@ -161,11 +161,11 @@
 }
 
 .pricingCard6 {
-    background: #fff1d5;
+    background: #FFD2C4;
 }
 .ph6, 
 .pricingCard6 > li > .checkIcon {
-    color: #f5c800;
+    color: #FF4F66;
 }
 
 

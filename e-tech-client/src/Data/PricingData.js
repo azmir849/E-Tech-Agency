@@ -1,8 +1,8 @@
 export const PricingData = [
     [
-        {title: 'Basic' ,name: 'Web Design', price: 48},
-        {title: 'Standard' ,name: 'Web Design', price: 78},
-        {title: 'Premium' ,name: 'Web Design', price: 98},
+        {title: 'Basic' ,name: 'UI Design', price: 45},
+        {title: 'Standard' ,name: 'UI Design', price: 75},
+        {title: 'Premium' ,name: 'UI Design', price: 95},
     ],
     [
         {title: 'Basic' ,name: 'Email Marketing', price: 39},
@@ -25,8 +25,8 @@ export const PricingData = [
         {title: 'Premium' ,name: 'SEO', price: 88},
     ],
     [
-        {title: 'Basic' ,name: 'UI Design', price: 45},
-        {title: 'Standard' ,name: 'UI Design', price: 75},
-        {title: 'Premium' ,name: 'UI Design', price: 95},
-    ]
+        {title: 'Basic' ,name: 'Web Design', price: 48},
+        {title: 'Standard' ,name: 'Web Design', price: 78},
+        {title: 'Premium' ,name: 'Web Design', price: 98},
+    ],
 ]

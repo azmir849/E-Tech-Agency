@@ -1,5 +1,5 @@
 .ourValue {
-    background: #7355F7;
+    background: #100b27;
     padding: 2rem;
 }
 .ourValueDetails {
@@ -35,7 +35,7 @@
 .ourValueNumber {
     font-weight: 700;
     font-size: 2.4rem;
-    color: #7355F7;
+    color: #eb8908;
 }
 .ourValueTitle {
     color: #777777;

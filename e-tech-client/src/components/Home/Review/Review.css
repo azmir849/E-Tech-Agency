@@ -1,6 +1,6 @@
 #testimonial {
     padding: 7rem 0 6rem;
-    background: #F8F5FF;
+    background: #faf2e8;
 }
 .review{
     box-shadow: 1px 0 20px rgb(0 0 0 / 10%);
@@ -28,7 +28,7 @@
 }
 .review > .testimonialAddress {
     font-size: 15px;
-    color: #7053F1;
+    color: #eb8908;
 }
 .review > p {
     color: #777;
@@ -41,5 +41,5 @@
     color:#FFBE5B;
 }
 :root {
-    --swiper-theme-color: #7053F1!important;
+    --swiper-theme-color: #eb8908!important;
 }
