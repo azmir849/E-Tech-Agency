@@ -45,7 +45,7 @@
 
 .priceLink1 > a:hover, 
 .priceLink1 > .nav-link.active {
-    background: #ffd30f;
+    background: #fa9c21;
 }
 .priceLink2 > a:hover, 
 .priceLink2 > .nav-link.active {
@@ -125,7 +125,7 @@
 }
 .ph1, 
 .pricingCard1 > li > .checkIcon {
-    color: #f5c800;
+    color: #eb8908;
 }
 
 .pricingCard2 {
