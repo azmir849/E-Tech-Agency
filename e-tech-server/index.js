@@ -56,7 +56,7 @@ client.connect(err => {
   
   const handleUpdate = (route, collection) => {
     app.patch(route, (req, res) => {
-      console.log(req.body)
+      // console.log(req.body)
       collection.updateMany({_id: ObjectId(req.params.id)},{
           $set: req.body
 
