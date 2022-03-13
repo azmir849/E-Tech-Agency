@@ -6,7 +6,7 @@ const Spinner = () => {
     return (
         <Loader
         type="Oval"
-        color="#7456F7"
+        color="#eb8908"
         height={70}
         width={70}
       />
