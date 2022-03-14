@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "cd ../e-tech-client && npm install && npm run build",
+    "build": "cd  ./e-tech-client && npm install && npm run build",
     "start": "nodemon --watch backend --exec node --experimental-modules ./e-tech-server/index.js"
   },
   "author": "",
