@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faFacebook, faGithub, faGoogle } from '@fortawesome/free-brands-svg-icons';
 import { loginWithProvider } from './LoginManager';
 import toast from 'react-hot-toast';
-import { Link } from 'react-router-dom';
+
 
 const SocialMedia = ({handleResponse}) => {
     const googleProvider = new firebase.auth.GoogleAuthProvider();
