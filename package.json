@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "cd  ./e-tech-client && npm install && npm run build",
-    "start": "nodemon --watch backend --exec node --experimental-modules ./e-tech-server/index.js"
+    "build": "cd  ./e-tech-agency/e-tech-client && npm install && npm run build",
+    "start": "nodemon --watch backend --exec node --experimental-modules ./e-tech-agency/e-tech-server/index.js"
   },
   "author": "",
   "license": "ISC",

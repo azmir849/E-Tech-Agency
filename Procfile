@@ -1,1 +1,1 @@
-web: node --experimental-modules ./e-tech-server/index.js
+web: node --experimental-modules ./e-tech-agency/e-tech-server/index.js
