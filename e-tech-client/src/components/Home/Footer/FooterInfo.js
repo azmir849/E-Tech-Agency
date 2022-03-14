@@ -1,5 +1,4 @@
 import React from 'react';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { Col } from 'react-bootstrap';
 
 const FooterInfo = ({data: {icon, info1, info2, id}}) => {
