@@ -47,7 +47,7 @@ const SignInForm = ({handleResponse}) => {
             {errors.email && <span className="text-warning">This field is required</span>}
             <div class="input-field">
                 <span className="fIcon"><FontAwesomeIcon icon={faLock}/></span>
-                <input defaultValue="1234" type="password" placeholder="Password" {...register("password", { required: true })} />
+                <input defaultValue="123456" type="password" placeholder="Password" {...register("password", { required: true })} />
             </div>
             {errors.password && <span className="text-warning">This field is required</span>}
             <input className="iBtn" type="submit" value="sign In"/>

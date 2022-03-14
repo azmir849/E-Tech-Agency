@@ -1,4 +1,4 @@
-# Trusted Tech Server
+# E-Tech Agency Server
 
 **Technology:** React, Node.js, MongoDB
 
