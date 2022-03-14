@@ -17,9 +17,24 @@
 
 ###  `Website Link :` [Live Site](https://trusted-tech.firebaseapp.com/)
 
-**Server Repo :** [E-Tech Agency](https://github.com/sagazirobiul/trusted-tech-server) 
+**Server Repo :** [E-Tech Agency](https://github.com/azmir849/E-Tech-Agency/tree/master/e-tech-server) 
 
 ## Home Page
 <a  href="">
   <img  width="100%"  height="100%"  src="https://github.com/azmir849/E-Tech-Agency/blob/master/e-tech-client/src/image/ScreenShots/home%20admin.png?raw=true"/>
+</a>
+
+## Home Without login
+<a  href="">
+  <img  width="100%"  height="100%"  src="https://github.com/azmir849/E-Tech-Agency/blob/master/e-tech-client/src/image/ScreenShots/home%20without%20login.png?raw=true"/>
+</a>
+
+## Admin Profile
+<a  href="">
+  <img  width="100%"  height="100%"  src="https://github.com/azmir849/E-Tech-Agency/blob/master/e-tech-client/src/image/ScreenShots/adin%20profile.png?raw=true"/>
+</a>
+
+## User Profile
+<a  href="">
+  <img  width="100%"  height="100%"  src="https://github.com/azmir849/E-Tech-Agency/blob/master/e-tech-client/src/image/ScreenShots/user%20profile.png?raw=true"/>
 </a>

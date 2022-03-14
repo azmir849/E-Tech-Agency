@@ -6,4 +6,4 @@
 
 ###  `Website Link :` [Live Site](https://trusted-tech.firebaseapp.com/)
 
-**Client Repo :** [Trusted Tech](https://github.com/sagazirobiul/trusted-tech-client) 
+**Client Repo :** [E-Tech Agency](https://github.com/azmir849/E-Tech-Agency/tree/master/e-tech-client) 
