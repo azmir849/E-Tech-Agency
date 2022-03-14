@@ -85,13 +85,8 @@ client.connect(err => {
     
 });
 
-app.use(express.static(path.join(__dirname, '../e-tech-client/build')));
-app.get('*', (req, res) =>
-  res.sendFile(path.join(__dirname, '../e-tech-client/build/index.html'))
-);
-
-// app.get('/', (req, res) => {
-//   res.send('e-tech agency!')
-// })
+app.get('/', (req, res) => {
+  res.send('e-tech agency!')
+})
 
 app.listen(port)
