@@ -20,6 +20,6 @@
 
 **Tools:** VSCode, Git, Firebase, Heroku.
 
-###  `Website Link :` [Live Site](https://e-shopper-azmir.herokuapp.com/)
+###  `Website Link :` [Live Site](https://e-tech-agency.web.app/)
 
 **Client Repo :** [E-Tech Agency](https://github.com/azmir849/E-Tech-Agency/tree/master/e-tech-client) 
