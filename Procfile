@@ -1,0 +1,1 @@
+web: node --experimental-modules ./e-tech-server/index.js
