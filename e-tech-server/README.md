@@ -23,3 +23,10 @@
 ###  `Website Link :` [Live Site](https://e-tech-agency.web.app/)
 
 **Client Repo :** [E-Tech Agency](https://github.com/azmir849/E-Tech-Agency/tree/master/e-tech-client) 
+
+
+Main page with admin loggedin:
+
+![](https://github.com/azmir849/E-Tech-Agency/blob/master/e-tech-client/src/image/ScreenShots/home%20admin.png?raw=true)
+
+----
