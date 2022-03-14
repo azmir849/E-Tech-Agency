@@ -16,7 +16,7 @@ const Dashboard= () => {
     const [title, setTitle] = useState('E-Tech Agency')
 
     useEffect(() => {
-        axios.get(`http://localhost:8000/admin?email=${user.email}`)
+        axios.get(`https://e-tech-agency-api.herokuapp.com/admin?email=${user.email}`)
         .then(res => {
             if(res.data.length > 0){
                 setAdmin(true)
