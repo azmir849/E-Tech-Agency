@@ -16,7 +16,7 @@ const Header = () => {
         </HeroBg> */}
             <div className="row w-100">
                 <div className="row col-md-10 mx-auto mt-5">
-                    <div className="col-md-7 titleArea">
+                    <div className="col-md-7 titleArea order-2 order-lg-1">
                         <Fade duration={2000} left>
                             <h2 className="headerTitle text-center"><span className="headerHighlight">Websites, Softwares, Design & Digital Marketing ...</span></h2>
                             <p className="miniTitle text-center">Grow Your Business With Us. Your trusted Partner</p>
@@ -25,7 +25,7 @@ const Header = () => {
                         </Fade>
                     </div>
                     <Fade duration={2000} right>
-                        <div className="col-md-5 img">
+                        <div className="col-md-5 img order-1 order-lg-2">
                             <img src={`${banner}`} alt="" className="img-fluid"/>
                         </div>
                     </Fade>

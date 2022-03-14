@@ -15,7 +15,7 @@ const Contact = () => {
         <section id="contact">
             <Col md={11} className="mx-auto">
                 <Row>
-                    <Col md={6}>
+                    <Col md={6} className='order-2 order-lg-1'>
                         <Fade duration={2000} left>
                             <form onSubmit={handleSubmit} className="contactForm">
                                 <h4 className="miniTitle">CONTACT US</h4>
@@ -38,7 +38,7 @@ const Contact = () => {
                             </form>
                         </Fade>
                     </Col>
-                    <Col md={6}>
+                    <Col md={6} className='order-1 order-lg-2'>
                         <Fade duration={2000} right>
                             <img src={`${contactImg}`} alt="" className="img-fluid"/>
                         </Fade>

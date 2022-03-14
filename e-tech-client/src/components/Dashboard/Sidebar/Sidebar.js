@@ -13,7 +13,7 @@ const Sidebar = ({setTitle}) => {
         <div>
             <div className="sideBrand mt-4 ">
                 {/* <div className="sideBrnIcon"><FontAwesomeIcon icon={faBuffer}/></div> */}
-                <h2>Trusted <span className="navHighlight">Tech</span></h2>
+                <h2><span className="navHighlight">E-Tech</span> Agency</h2>
             </div>
             <nav id="sideNavbar">
                 <ul>    
