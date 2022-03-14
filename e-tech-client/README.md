@@ -1,4 +1,4 @@
-# E-Tech Agency Server
+# E-Tech Agency Client
 
 # Features 
 - Complete web application with a dynamic services section and review section .
