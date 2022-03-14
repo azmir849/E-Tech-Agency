@@ -5,6 +5,7 @@ const MongoClient = require('mongodb').MongoClient;
 const ObjectId = require('mongodb').ObjectId;
 const port = process.env.PORT || 8000;
 
+
 app.use(express.json());
 app.use(cors());
 require('dotenv').config(); 
@@ -84,9 +85,9 @@ client.connect(err => {
     
 });
 
-app.use(express.static(path.join(__dirname, '/e-tech-client/build')));
+app.use(express.static(path.join(__dirname, '/build')));
 app.get('*', (req, res) =>
-  res.sendFile(path.join(__dirname, '/e-tech-client/build/index.html'))
+  res.sendFile(path.join(__dirname, '/build/index.html'))
 );
 
 // app.get('/', (req, res) => {
